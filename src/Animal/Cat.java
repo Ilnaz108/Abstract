@@ -1,12 +1,12 @@
 package Animal;
 
-public class Turtle extends Animal {
-    public Turtle() {
-        
+public class Cat extends Animal {
+    public Cat() {
     }
+
     public void getName() {
 
-        System.out.println("Turtle");
+        System.out.println("Cat");
     }
 
 
@@ -18,8 +18,8 @@ public class Turtle extends Animal {
     @Override
     public void run() {
 
-    }
 
+    }
 
     @Override
     public void Swim() {
