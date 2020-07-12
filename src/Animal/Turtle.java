@@ -1,9 +1,14 @@
 package Animal;
 
 public class Turtle extends Animal {
+    public Turtle() {
+
+    }
     public void getName() {
+
         System.out.println("Turtle");
     }
+
 
     @Override
     public void fly() {
