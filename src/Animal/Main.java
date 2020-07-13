@@ -7,7 +7,4 @@ public class Main {
         Animal turtle = new Turtle();
         turtle.getName();
     }
-    /*public void run () {
-        System.out.println("run");
-    }*/
 }
